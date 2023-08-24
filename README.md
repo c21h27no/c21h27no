@@ -1,4 +1,4 @@
-![image text](https://github.com/yumu987/img_git/blob/main/github.jpeg)
+![image text](https://github.com/yumu987/logo/blob/main/Logo%20-%20colour%20PNG.png)
 
 ### Hi there 👋
 
