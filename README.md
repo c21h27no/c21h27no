@@ -1,5 +1,3 @@
-![image text](https://github.com/yumu987/logo/blob/main/Logo%20-%20colour%20PNG.png)
-
 ### Hi there 👋
 
 **yumu987/yumu987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
